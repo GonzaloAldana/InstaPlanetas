@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "803930721869",
+    "firebase_url": "https://instaplanetas.firebaseio.com",
+    "project_id": "instaplanetas",
+    "storage_bucket": "instaplanetas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803930721869:android:89c2ced91fbebae686d604",
+        "android_client_info": {
+          "package_name": "com.example.instaplanetas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803930721869-j95j5rjvuhvb07h3eeg7elgo05t4ocl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8hvGnIdd5anV7QmDxNvPIM83MI1wH_ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803930721869-j95j5rjvuhvb07h3eeg7elgo05t4ocl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803930721869:android:2c1c392b365ad91586d604",
+        "android_client_info": {
+          "package_name": "com.example.mapa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803930721869-j95j5rjvuhvb07h3eeg7elgo05t4ocl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8hvGnIdd5anV7QmDxNvPIM83MI1wH_ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803930721869-j95j5rjvuhvb07h3eeg7elgo05t4ocl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

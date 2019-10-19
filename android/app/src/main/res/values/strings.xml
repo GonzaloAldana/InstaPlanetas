@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Street Art</string>
+    <string name="facebook_app_id">676910592830834</string> 
+    <string name="fb_login_protocol_scheme">fb676910592830834</string>
+</resources>

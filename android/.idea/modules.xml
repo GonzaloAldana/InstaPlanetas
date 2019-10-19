@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.11.0+1/android/cloud_firestore.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.11.0+1/android/cloud_firestore.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.0/android/firebase_core.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.0/android/firebase_core.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-3.0.0/android/firebase_storage.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-3.0.0/android/firebase_storage.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-4.0.3/android/geolocator.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-4.0.3/android/geolocator.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.0/android/google_api_availability.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.0/android/google_api_availability.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.0+3/android/image_picker.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.0+3/android/image_picker.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-2.0.1/android/location_permissions.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-2.0.1/android/location_permissions.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-0.5.0+1/android/path_provider.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-0.5.0+1/android/path_provider.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-1.1.5/android/sqflite.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-1.1.5/android/sqflite.iml" />
+    </modules>
+  </component>
+</project>
